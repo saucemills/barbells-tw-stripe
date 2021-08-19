@@ -1,0 +1,104 @@
+[
+  {
+    "id": "barbells-3-classic-black-tee",
+    "title": "Barbells 3.0 Classic Black T-Shirt",
+    "description": "60% combed ringspun cotton/40% polyester jersey. 4.3 oz, slightly heathered, fabric laundered for reduced shrinkage",
+    "price": "24.00",
+    "images": [
+      "/images/barbells-3-classic-black-tee-1.jpeg",
+      "/images/barbells-3-classic-black-tee-2.jpeg"
+    ],
+    "variants": [
+      {
+        "variantId": "37556369227933",
+        "size": "M",
+        "quantity": "0"
+      },
+      {
+        "variantId": "37556369260701",
+        "size": "L",
+        "quantity": "1"
+      },
+      {
+        "variantId": "37556369326237",
+        "size": "XL",
+        "quantity": "1"
+      },
+      {
+        "variantId": "37556369359005",
+        "size": "XXL",
+        "quantity": "1"
+      }
+    ]
+  },
+  {
+    "id": "vegas-strong-tee",
+    "title": "Vegas Strong T-Shirt",
+    "description": "60% combed ringspun cotton/40% polyester jersey. 4.3 oz, slightly heathered, fabric laundered for reduced shrinkage",
+    "price": "26.00",
+    "images": [
+      "/images/vegas-strong-tee-1.jpeg",
+      "/images/vegas-strong-tee-2.jpeg",
+      "/images/vegas-strong-tee-3.jpeg"
+    ],
+    "variants": [
+      {
+        "variantId": "37556370735261",
+        "size": "S",
+        "quantity": "1"
+      },
+      {
+        "variantId": "37556370768029",
+        "size": "M",
+        "quantity": "1"
+      },
+      {
+        "variantId": "37556370800797",
+        "size": "L",
+        "quantity": "1"
+      },
+      {
+        "variantId": "37556370833565",
+        "size": "XL",
+        "quantity": "1"
+      },
+      {
+        "variantId": "37556370866333",
+        "size": "XXL",
+        "quantity": "1"
+      }
+    ]
+  },
+  {
+    "id": "hustle-business-tee",
+    "title": "Hustle in Business, Grind in Fitness Tee",
+    "description": "60% combed ringspun cotton/40% polyester jersey. 4.3 oz, slightly heathered, fabric laundered for reduced shrinkage",
+    "price": "24.00",
+    "images": [
+      "/images/hustle-in-business-tee-1.jpeg",
+      "/images/hustle-in-business-tee-2.jpeg"
+    ],
+    "variants": [
+      {
+        "variantId": "37556369752221",
+        "size": "M",
+        "quantity": "0"
+      },
+      {
+        "variantId": "37556369784989",
+        "size": "L",
+        "quantity": "1"
+      },
+      {
+        "variantId": "37556369817757",
+        "size": "XL",
+        "quantity": "1"
+      },
+      {
+        "variantId": "37556369850525",
+        "size": "XXL",
+        "quantity": "1"
+      }
+    ]
+  }
+]
